@@ -12,3 +12,8 @@ h1, h3 {
 p {
   text-shadow: 0px 0px 12px #fff;
 }
+
+.box-zwrotka {
+  display: inline-block;
+  margin-right: 24px;
+}
