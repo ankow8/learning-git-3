@@ -3,3 +3,11 @@ body {
   margin: 24px;
   background-image: url(https://static.vecteezy.com/system/resources/previews/001/781/456/non_2x/glasses-on-a-wooden-table-with-books-free-photo.jpg);
 }
+
+h1, h3 {
+  text-shadow: 0px 0px 24px #fff;
+}
+
+p {
+  text-shadow: 0px 0px 12px #fff;
+}
